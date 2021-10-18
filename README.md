@@ -1,6 +1,6 @@
 # Bryannegrete10.github.io
 
-## 	-   **Name: MIT Full-Stack Development Course 
+## 	-   Name: MIT Full-Stack Development Course 
 
 -   **Description**: This was part of an assignment introduction to the course. 
 
